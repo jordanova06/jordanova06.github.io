@@ -38,7 +38,7 @@ body{
     transition: all 0.3s;
 }
 
-.content button:hover{
+.content button:hover, .content button:active{
     box-shadow: 10px 10px 0px -12px rgba(38,48,84,1);
     background-color: #263054;
     color: white;
