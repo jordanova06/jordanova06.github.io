@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    height: 100%;
+}
+
 body{
     background-color: #f0f0f0;
     width: 100%;
@@ -16,7 +20,7 @@ body{
     font-family: 'Muli';
     font-size: 1.3em;
     margin: auto;
-    height: 100vh;
+    height: 100%;
     width: 80%;
     text-align: center;
     color: #263054;
